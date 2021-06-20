@@ -1,0 +1,128 @@
+body {
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    max-width: 850px;
+}
+
+h1 {
+    font-size: 250%;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 170%;
+    margin-top: 35px;
+    margin-bottom: -10px;
+    padding: 0px;
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 130%;
+    margin-top: 20px;
+    margin-bottom: -5px;
+    padding: 0px;
+}
+
+h4 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 110%;
+    margin-top: 20px;
+    margin-bottom: -5px;
+    padding: 0px;
+}
+
+p {
+    font-size: 115%;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+}
+
+code {
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0000FF;
+}
+
+a:hover {
+    color: #4B0082;
+}
+
+.label {
+    font-weight: bold;
+}
+
+ul {
+    font-family: 'Merriweather', serif;
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    overflow: hidden;
+    border: 2px solid black;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+ul.navbar li {
+    float: left;
+}
+
+ul.navbar a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+}
+
+ul.navbar a:hover {
+    background-color: #cccccc;
+}
+
+#pages {
+    margin-left: 24px;
+    margin-top: -15px;
+    padding: 0;
+    font-size: 115%;
+}
+
+#pages li {
+    margin-bottom: 3px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.venue {
+    font-style: italic;
+}
+
+h3.section {
+    margin-top: 32pt;
+}
+
+.courseList {
+    margin-left: 24px;
+    padding: 0;
+    font-size: 115%;
+}
+
+.courseList li {
+    margin-bottom: 10px;
+}
