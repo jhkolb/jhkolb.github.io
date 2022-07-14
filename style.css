@@ -4,6 +4,9 @@ body {
     margin-right: 150px;
     margin-bottom: 50px;
     max-width: 850px;
+    font-size: 115%;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
 }
 
 h1 {
@@ -35,12 +38,6 @@ h4 {
     margin-top: 20px;
     margin-bottom: -5px;
     padding: 0px;
-}
-
-p {
-    font-size: 115%;
-    font-family: 'Merriweather', serif;
-    text-align: justify;
 }
 
 code {
@@ -120,9 +117,12 @@ h3.section {
 .courseList {
     margin-left: 24px;
     padding: 0;
-    font-size: 115%;
 }
 
 .courseList li {
     margin-bottom: 10px;
+}
+
+code {
+    font-size: 115%;
 }
