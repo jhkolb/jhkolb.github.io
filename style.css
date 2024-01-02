@@ -44,6 +44,14 @@ code {
     font-family: 'Ubuntu Mono', monospace;
 }
 
+p {
+    margin-left: 15pt;
+}
+
+#introBlurb {
+    margin-left: 0;
+}
+
 a {
     text-decoration: none;
 }
