@@ -1,0 +1,3 @@
+[submodule "nurmi"]
+	path = nurmi
+	url = git@github.com:jhkolb/nurmi.git
